@@ -17,11 +17,13 @@ To use it (**not recommanded**), there is 3 optionnals environ variables to set 
 
 ---
 <details>
-  <summary><b>ℹ️ About timed projects</b></summary>
+  <summary><b>About timed projects</b></summary>
+  
   A [timed project](https://github.com/AiroPi?tab=repositories&q=%23timedproject&type=&language=&sort=) is a project idea that I have to realize under a time I defined. It is a challenge for me to respect the time.  
 </details>
 <details>
   <summary><b>Others examples</b></summary>
+
 [![timed project](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%23&prefix=timedproject%20%3A%20&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3D%2523timedproject%2Buser%3AAiroPi)](https://github.com/AiroPi?tab=repositories&q=%23timedproject)
 [![hourly project](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%23&prefix=hourlyproject%20%3A%20&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3D%2523hourlyproject%2Buser%3AAiroPi)](https://github.com/AiroPi?tab=repositories&q=%23hourlyproject)
 [![daily project](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%23&prefix=dailyproject%20%3A%20&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3D%2523dailyproject%2Buser%3AAiroPi)](https://github.com/AiroPi?tab=repositories&q=%23dailyproject)
