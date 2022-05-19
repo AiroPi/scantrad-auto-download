@@ -1,5 +1,5 @@
 # Scans downloader and notifier
-[![wakatime](https://wakatime.com/badge/user/5ef456e4-4b7e-4371-9470-ef74cdda7726/project/c89eb6aa-73e2-4b9b-9c3c-fef5b534db2d.svg)](https://wakatime.com/badge/user/5ef456e4-4b7e-4371-9470-ef74cdda7726/project/c89eb6aa-73e2-4b9b-9c3c-fef5b534db2d)
+[![wakatime](https://wakatime.com/badge/github/AiroPi/scantrad-auto-download.svg)](https://wakatime.com/badge/github/AiroPi/scantrad-auto-download)
 [![timed project](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%23&prefix=timedproject%20%3A%20&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3D%2523timedproject%2Buser%3AAiroPi)](https://github.com/AiroPi?tab=repositories&q=%23timedproject)
 [![daily project](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%23&prefix=dailyproject%20%3A%20&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3D%2523dailyproject%2Buser%3AAiroPi)](https://github.com/AiroPi?tab=repositories&q=%23dailyproject)
 
